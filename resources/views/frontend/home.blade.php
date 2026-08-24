@@ -6,7 +6,7 @@
 <!-- ======= Hero Section ======= -->
 <section id="hero">
     <div class="hero-container" data-aos="fade-up">
-        <h1>Isna Collection</h1>
+        <h1>SuperNearr</h1>
         <h2>Mewujudkan Kreativitas Melalui Jarum dan Benang <br> Isna Collection, Solusi Terbaik untuk Busana Personal
             yang Berkualitas.</h2>
             <a href="{{ route('order') }}" class="btn-get-started scrollto" style="text-decoration: none;">Pesan Sekarang</a>
